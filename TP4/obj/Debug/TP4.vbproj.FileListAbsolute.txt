@@ -1,0 +1,12 @@
+C:\Users\Juani\source\repos\TP4\bin\Debug\TP4.exe.config
+C:\Users\Juani\source\repos\TP4\bin\Debug\TP4.exe
+C:\Users\Juani\source\repos\TP4\bin\Debug\TP4.pdb
+C:\Users\Juani\source\repos\TP4\bin\Debug\TP4.xml
+C:\Users\Juani\source\repos\TP4\obj\Debug\TP4.vbproj.AssemblyReference.cache
+C:\Users\Juani\source\repos\TP4\obj\Debug\TP4.Form1.resources
+C:\Users\Juani\source\repos\TP4\obj\Debug\TP4.Resources.resources
+C:\Users\Juani\source\repos\TP4\obj\Debug\TP4.vbproj.GenerateResource.cache
+C:\Users\Juani\source\repos\TP4\obj\Debug\TP4.vbproj.CoreCompileInputs.cache
+C:\Users\Juani\source\repos\TP4\obj\Debug\TP4.exe
+C:\Users\Juani\source\repos\TP4\obj\Debug\TP4.xml
+C:\Users\Juani\source\repos\TP4\obj\Debug\TP4.pdb
